@@ -25,6 +25,10 @@ sesuai dengan posisi pertemuan tiga lempeng tektonik (Eurasia, Indo-Australia, P
 - `geo_phase1_earthquake.ipynb` — analisis dan scatter plot
 - `geo_phase2_folium.ipynb` — peta interaktif
 
+**Output:**  
+![Scatter Plot](earthquake_scatter.png)  
+![Peta Interaktif](earthquake_map.png)
+
 ---
 
 ## Project 2 — NDVI Land Cover Analysis
@@ -43,6 +47,10 @@ channel Green bukan pengganti NIR yang tepat. Sensor multispektral pada
 drone profesional menyelesaikan ini dengan band NIR dedicated.
 
 **Notebook:** `geo_phase3_ndvi.ipynb`
+
+**Output:**  
+![Citra RGB](ndvi_citra.png)  
+![NDVI Heatmap](ndvi_heatmap.png)
 
 ---
 
